@@ -1,7 +1,19 @@
 
 .footer{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 2em 1em 0rem 0em ;
+  width: 100%;
+  padding: 0 ;
+  margin-bottom: 0;
+  position: relative;
+}
+
+
+
+.footer__hashtag{
+  color:#8a9af1;
+  font-family: 'MuseoModerno', cursive;
+  font-size:12.41rem;
+  line-height: 1rem;
+  margin-bottom: 0;
+ 
+ 
 }
