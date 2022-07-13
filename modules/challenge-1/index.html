@@ -7,28 +7,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Laboratorio 1</title>
 
-  <!-- styles -->
-  <link rel="stylesheet" href="./styles.css">
+  <!-- RESET -->
+  <link rel="stylesheet" href="./normalize.css">
+
+  <!-- STYLES -->
+  <link rel="stylesheet" href="./styles/index.css">
+  <link rel="stylesheet" href="./styles/components/layout/header.css">
+  <link rel="stylesheet" href="./styles/components/layout//main.css">
+  <link rel="stylesheet" href="./styles/components/layout/footer.css">
+
+  <!-- STYLE COMPONENTS -->
+  <link rel="stylesheet" href="./styles/components/title.css">
+  <link rel="stylesheet" href="./styles/components/subtitle.css">
 
 
 </head>
 
 <body>
 
-  <header>
-    <h1>Mendoza</h1>
-    <h2>Destino seguro y abierto al turismo</h2>
+  <header class="header">
+    <h1 class="title">Mendoza</h1>
+    <h2 class="subtitle">Destino seguro y abierto al turismo</h2>
   </header>
 
-  <main>
-    <p>
+  <main class="content">
+    <p class="content-description">
       <strong>Mendoza</strong> es una ciudad de la región de Cuyo en Argentina y
       es el <strong>corazón de la zona vitivinícola argentina</strong>, famosa por
       sus Malbecs y otros vinos tintos. Sus distintas bodegas
       ofrecen degustaciones y visitas guiadas.
     </p>
 
-    <p>
+    <p class="content-details">
       La ciudad tiene calles amplias y frondosas rodeadas de
       edificios modernos y art déco, y con plazas más pequeñas
       que rodean la Plaza Independencia, sitio del Museo
@@ -36,7 +46,7 @@
       <strong>artemoderno y contemporáneo.</strong>
     </p>
 
-    <h3>
+    <h3 class="title title--size">
       Conocé Mendoza
     </h3>
 
@@ -47,8 +57,12 @@
       <li>¿Dónde alojarse?</li>
 
     </ul>
+
   </main>
 
+  <footer class="footer">
+    <p>#ModoMendoza</p>
+  </footer>
 
 
 </body>
