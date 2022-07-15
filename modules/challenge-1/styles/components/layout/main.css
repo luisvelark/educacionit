@@ -1,10 +1,12 @@
 
 .content{
+  width: 90%;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: auto;
-  padding: 0em 1em 2rem 2em ;
+  align-items: center;
+  padding: 0em 0em 2em 0em ;
+  margin:auto;
 }
 
 .content__description,.content__details,.content__list{
@@ -13,4 +15,9 @@
   font-size:2rem;
   font-weight:400;
   line-height: 1.5em;
+}
+
+
+.content__questions{
+  align-self: flex-start;
 }
