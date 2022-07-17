@@ -19,8 +19,10 @@ body{
 }
 
 
-.publicity-container{
-  width: 50%;
+.publicity{
+  width: 80%;
   background:black;
   list-style: none;
+  padding: 0;
+  
 }
