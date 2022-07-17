@@ -1,0 +1,26 @@
+.publicity__discount{
+  background:white;
+  color: black;
+  
+  font-weight: 600;
+  font-size:3rem;
+  line-height:3rem;
+  text-align: center;
+
+}
+
+.publicity__discount p  {
+padding-top: 0.3em;
+padding-bottom: 0.3em;
+
+  margin-top: 0em;
+  margin-bottom:0em;
+
+}
+
+.publicity__discount p strong{
+  font-weight: 900;
+  font-size:3.75rem;
+  line-height:3.75rem;
+
+}
