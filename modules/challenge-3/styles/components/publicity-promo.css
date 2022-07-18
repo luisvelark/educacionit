@@ -1,0 +1,17 @@
+.publicity__promo{
+  background:black;
+  color: white;
+  
+  font-weight: 900;
+  font-size:12.33rem;
+  line-height:12.33rem;
+  text-align: center;
+
+
+}
+
+.publicity__promo p {
+  margin-top: 0em;
+  margin-bottom:0em;
+  padding: 0.1em 0;
+}

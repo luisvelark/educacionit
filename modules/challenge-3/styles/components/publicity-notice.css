@@ -1,0 +1,14 @@
+
+.notice{  
+  background: white;
+}
+
+.notice__text{
+  color: #0a2ff1;
+  font-weight: 600;
+  font-size:3.66rem;
+  line-height:3.66rem;
+  text-align: center;
+  margin:0;
+  padding:0.5em 0 0 0;
+}

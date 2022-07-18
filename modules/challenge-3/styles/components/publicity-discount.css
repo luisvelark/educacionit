@@ -1,0 +1,35 @@
+
+.discount{
+  background:white;
+
+}
+
+.discount__text{
+  color: #0a2ff1;
+  font-size:3rem;
+  line-height:3rem;
+  text-align: center;
+
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+
+  margin-top: 0em;
+  margin-bottom:0em;
+}
+
+.discount__text--black{
+  font-weight: 900;
+}
+
+.discount__text--semibold{
+  font-weight: 600;
+
+}
+
+.discount__text--black-percent{
+  font-weight: 900;
+  background: Black;
+  color:white;
+  font-size:3.75rem;
+  padding:0;
+}

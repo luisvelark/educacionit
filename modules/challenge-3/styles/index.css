@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+
+body{
+  width: 100%;
+  height: 100%; /*será 100vh cuando la pagina sea fija,es decir sin scroll*/
+  background: #edf7ff;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family:  'Montserrat', sans-serif;
+  line-height: 1rem;
+  font-style: normal;
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.publicity{
+  width: 65%;
+  background:black;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.banner-top{
+  background: blue;
+  width: 65%;
+  height:2rem;
+}
+
+.banner-botton{
+  background: blue;
+  width: 65%;
+  height:3rem;
+}
+

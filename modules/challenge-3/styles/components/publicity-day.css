@@ -1,0 +1,19 @@
+.publicity__day{
+  background:white;
+  color: black;
+  
+  font-weight: 900;
+  font-size:13.58rem;
+  line-height:13.58rem;
+  text-align: center;
+
+}
+
+.publicity__day p {
+  padding-top:0.7em;
+  padding-bottom:0.7em; 
+
+  margin-top: 0em;
+  margin-bottom:0em;
+
+}
