@@ -5,9 +5,10 @@
 .post__text{
   color: #0a2ff1;
   font-size:59pt;
-  line-height:6.5rem; 
+  line-height:7rem; 
   font-weight: 700;
   text-align: center;
+  
 }
 
 .post__text--highlight{
@@ -15,7 +16,7 @@
 }
 
 .post__text--secondary{
-  width:53%;
+  width:55%;
   font-size: 23pt;
   line-height:2.5rem;
   font-weight: 500;
