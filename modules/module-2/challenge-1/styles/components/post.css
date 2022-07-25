@@ -1,0 +1,24 @@
+.post{
+ width: 53%;
+}
+
+.post__text{
+  color: #0a2ff1;
+  font-size:59pt;
+  line-height:6.5rem; 
+  font-weight: 700;
+  text-align: center;
+}
+
+.post__text--highlight{
+  background:#3ffff3;
+}
+
+.post__text--secondary{
+  width:53%;
+  font-size: 23pt;
+  line-height:2.5rem;
+  font-weight: 500;
+  margin: auto;
+
+}

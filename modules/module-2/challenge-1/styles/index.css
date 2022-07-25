@@ -9,8 +9,9 @@ body{
   font-weight: normal;
   font-style: normal;
   font-family: 'Poppins', sans-serif;
-  color: #0a2ff1;
+  color: blue;  
 
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
