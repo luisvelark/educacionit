@@ -4,9 +4,11 @@
   src: url(../../assets/fonts/coolvetica.rg-regular.otf);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
 .presentation{
-  /* background:red; */
   padding: 2em;
+  max-width: 55%;
 }
 
 .presentation__title{
@@ -15,6 +17,18 @@
   font-weight: normal;
   color: #0a2ff1;
   line-height: 1em;
+  text-align: center;
   /* letter-spacing:0.1em; */
 
 }
+
+.presentation__subtitle{
+  font-family: 'Roboto', sans-serif;
+  font-size:30pt;
+  font-weight:300;
+  color:#04146c;
+  line-height: 1em;
+  text-align:center;
+
+}
+  
