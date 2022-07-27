@@ -1,10 +1,20 @@
-/* .presentation{
-  background:red;
+
+@font-face {
+  font-family: my-coolvetica-font;
+  src: url(../../assets/fonts/coolvetica.rg-regular.otf);
+}
+
+.presentation{
+  /* background:red; */
   padding: 2em;
 }
 
 .presentation__title{
-  background:palevioletred;
+  font-family: my-coolvetica-font;
+  font-size: 90pt;
+  font-weight: normal;
+  color: #0a2ff1;
+  line-height: 1em;
+  /* letter-spacing:0.1em; */
 
-
-} */
+}
