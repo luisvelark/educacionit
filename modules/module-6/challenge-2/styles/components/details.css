@@ -1,0 +1,38 @@
+.details{
+  width:45%;
+}
+
+.details__text{
+  font-family: 'Roboto', sans-serif;
+  color:#04146c;
+  line-height: 1em;
+}
+
+
+.details__text--title{
+  font-size: 48pt;
+  color: #0a2ff1;
+  font-weight: 700;
+}
+
+.details__text--subtitle{
+  font-size: 24pt;
+  font-weight: 300;
+  
+
+}
+
+.details__image-points{
+  width: 50%;
+}
+
+
+.details__text--description{
+  font-size:12pt;
+}
+
+
+.details__text--description-bold{
+  font-size:12pt;
+  font-weight:700;
+}
